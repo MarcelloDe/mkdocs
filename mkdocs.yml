@@ -1,0 +1,42 @@
+site_name: My Personal Website
+site_url: http://127.0.0.1:8000/
+theme:
+  name: 'material'
+  custom_dir: docs/assets  # Optional: Path to custom CSS/JS
+  favicon: 'assets/images/favicon.ico'
+  features:
+  - content.tabs.link
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.expand
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Enable search feature
+search:
+  lang: en
+  max_results: 5
+
+# Define the navigation menu structure
+nav:
+  - Home: index.md
+  - Book Summaries:
+      - Book 1: Book Summaries/kaufman.md
+
+      - Horror:
+        - Book 2: book2.md
+        - Book 3: book3.md
+  - Subjects:
+      - Databases: Subjects/sql.md
+  - Projects:
+      - Project 1: projects/project1.md
+      - Project 2: projects/project2.md
+      - Project 3: projects/project3.md
+
+
+
+# Set the site language (optional)
+language: en
