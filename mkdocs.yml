@@ -22,7 +22,7 @@ search:
 
 # Define the navigation menu structure
 nav:
-  - Home: index.md
+  - Home: docs/index.md
   - Book Summaries:
       - Book 1: Book Summaries/kaufman.md
 
