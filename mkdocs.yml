@@ -1,5 +1,5 @@
 site_name: My Personal Website
-site_url: http://127.0.0.1:8000/
+site_url: https://marcellode.github.io/mkdocs/
 theme:
   name: 'material'
   custom_dir: docs/assets  # Optional: Path to custom CSS/JS
