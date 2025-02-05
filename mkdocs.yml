@@ -1,5 +1,6 @@
 site_name: My Personal Website
 site_url: https://marcellode.github.io/mkdocs/
+https://marcellode.github.io/mkdocs/
 theme:
   name: 'material'
   custom_dir: docs/assets  # Optional: Path to custom CSS/JS
@@ -22,7 +23,7 @@ search:
 
 # Define the navigation menu structure
 nav:
-  - Home: docs/index.md
+  - Home: index.md
   - Book Summaries:
       - Book 1: Book Summaries/kaufman.md
 
