@@ -1,5 +1,5 @@
 site_name: My Personal Website
-site_url: https://MarcelloDe.github.io/mkdocs/index.md
+site_url: https://MarcelloDe.github.io/mkdocs
 use_directory_urls: false
 theme:
   name: 'material'
@@ -23,7 +23,7 @@ search:
 
 # Define the navigation menu structure
 nav:
-  - Home: index.md
+  - Home: index
   - Book Summaries:
       - The First 20 Hours. By Josh Kaufman : Book Summaries/kaufman.md
       - 12 Rules of Life by Jordan Peterson: Book Summaries/peterson.md
