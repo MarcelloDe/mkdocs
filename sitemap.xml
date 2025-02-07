@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://marcellode.github.io/mkdocs/</loc>
-         <lastmod>2025-02-05</lastmod>
+         <loc>https://MarcelloDe.github.io/mkdocs/</loc>
+         <lastmod>2025-02-07</lastmod>
     </url>
     <url>
-         <loc>https://marcellode.github.io/mkdocs/projects/</loc>
-         <lastmod>2025-02-05</lastmod>
+         <loc>https://MarcelloDe.github.io/mkdocs/projects/</loc>
+         <lastmod>2025-02-07</lastmod>
     </url>
     <url>
-         <loc>https://marcellode.github.io/mkdocs/Book%20Summaries/kaufman/</loc>
-         <lastmod>2025-02-05</lastmod>
+         <loc>https://MarcelloDe.github.io/mkdocs/Book%20Summaries/kaufman/</loc>
+         <lastmod>2025-02-07</lastmod>
     </url>
     <url>
-         <loc>https://marcellode.github.io/mkdocs/Subjects/sql/</loc>
-         <lastmod>2025-02-05</lastmod>
+         <loc>https://MarcelloDe.github.io/mkdocs/Book%20Summaries/peterson/</loc>
+         <lastmod>2025-02-07</lastmod>
     </url>
     <url>
-         <loc>https://marcellode.github.io/mkdocs/projects/project1/</loc>
-         <lastmod>2025-02-05</lastmod>
+         <loc>https://MarcelloDe.github.io/mkdocs/Subjects/sql/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://MarcelloDe.github.io/mkdocs/projects/How-I-Landed-My-Data-Analyst-Internship/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://MarcelloDe.github.io/mkdocs/projects/IBM%20Data%20Science%20Certification%20Capstone%20Project/</loc>
+         <lastmod>2025-02-07</lastmod>
     </url>
 </urlset>
