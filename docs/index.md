@@ -1,6 +1,6 @@
 # Welcome to My Website
 
-Hey there! Hi, I'm Marcello, a software developer with a passion for building web applications. I have experience in front-end technologies like **React.js**, **Next.js**, and **Tailwind CSS**. This is where I keep all my notes.
+Hi, I'm Marcello, a software developer with a passion for building web applications. I have experience in front-end technologies like **React.js**, **Next.js**, and **Tailwind CSS**. This is where I keep all my notes.
 
 ### Book Summaries:
 
@@ -19,9 +19,11 @@ My course notes:
 
 Checkout my projects
 
-- [Introduction to Programming](projects/introduction.md)
-- [JavaScript Best Practices](projects/js-best-practices.md)
-- [**Project 1**](projects/project1.md): Coming Soon!
+- [How-I-Landed-My-Data-Analyst-Internship](projects/How-I-Landed-My-Data-Analyst-Internship.md)
+- [IBM Data Science Certification Capstone Project](projects/IBM Data Science Certification Capstone Project.md)
+- [Data-Analysis-with-Python-Project](projects/Data Analysis-with-Python-Project.md)
+- [Data-Visualization Project](projects/Data Visualization Project.md)
+- [SQL and Databases Project](projects/SQL and Databases Project.md)
 
 ---
 
