@@ -1,5 +1,6 @@
 site_name: My Personal Website
-site_url: https://MarcelloDe.github.io/mkdocs/
+site_url: https://MarcelloDe.github.io/mkdocs/index.md
+use_directory_urls: false
 theme:
   name: 'material'
   custom_dir: docs/assets  # Optional: Path to custom CSS/JS

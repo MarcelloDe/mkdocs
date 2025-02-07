@@ -82,7 +82,7 @@ The Field Columns were as follows:
 
 <p>I find a good practice when receiving a new dataset is it  ‘unhide’ any data that may have been ‘hidden’ by the previous user.</p>
 
-![image](internship/nhide.jpg)
+![image](internship/unhide.jpg)
 <span class="caption text-muted">Unhide any hidden rows or columns</span>
 
 <p>Another thing I like to do when I am given a dataset is to format the dataset as a table so that I can maintain the integrity of the data.</p>
