@@ -27,7 +27,7 @@ Checkout my projects
 
 ### Contact
 
-If you'd like to get in touch with me, feel free to send me a message at **[marcello.j.defilippis@gmail.com](mailto:your.email@example.com)** or reach out through my [LinkedIn](https://www.linkedin.com/in/marcellodefilippis/). If none of this tickles your pickle you can go back to my main site: [marcellod.space](https://marcellod.space/).
+If you'd like to get in touch with me, feel free to send me a message at **[marcello.j.defilippis@gmail.com](mailto:marcello.j.defilippis@gmail.com)** or reach out through my [LinkedIn](https://www.linkedin.com/in/marcellodefilippis/). If none of this tickles your pickle you can go back to my main site: [marcellod.space](https://marcellod.space/).
 
 ---
 
