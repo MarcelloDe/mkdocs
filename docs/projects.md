@@ -17,8 +17,7 @@ This is the introduction to your notes.
 
   <div class="vertical-nav-content">
     <button>Project 1</button>
-    <button>Project 2</button>
-    <button>Project 3</button>
+
   </div>
 
   <div class="vertical-nav-content">
