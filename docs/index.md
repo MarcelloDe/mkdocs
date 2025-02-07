@@ -1,45 +1,33 @@
 # Welcome to My Website
 
+Hey there! Hi, I'm Marcello, a software developer with a passion for building web applications. I have experience in front-end technologies like **React.js**, **Next.js**, and **Tailwind CSS**. This is where I keep all my notes.
 
+### Book Summaries:
 
-Welcome to my website! This is the homepage where you can find links to my projects and notes. Feel free to explore and learn more about what I'm working on.
+- Coming Soon!
 
-## About Me
+## Subjects
 
-Hi, I'm [Your Name], a software developer with a passion for building web applications. I have experience in front-end technologies like **React.js**, **Next.js**, and **Tailwind CSS**. 
+My course notes:
 
-### Skills:
-- Front-end Development
-- JavaScript, React, Next.js, TypeScript
-- Tailwind CSS
-- MkDocs, Jekyll, and Static Site Generation
+-- [Introduction to Programming](notes/introduction.md)
 
-
-
-## Projects
-
-Explore some of my recent projects:
-
-- [**Project 1**](projects/project1.md): A web app built with React.js and Next.js.
-- [**Project 2**](projects/project2.md): A full-stack application using Node.js and MongoDB.
-- [**Project 3**](projects/project3.md): An interactive data visualization tool built with D3.js.
-
-## Notes
-
-I keep a collection of notes and tutorials here. They might be useful for others who are learning along with me:
-
-- [Introduction to Programming](notes/introduction.md)
 - [JavaScript Best Practices](notes/js-best-practices.md)
 - [Learning Next.js](notes/learning-nextjs.md)
 
-Feel free to explore my **[Notes Section](notes/)** for more!
+## Projects
+
+Checkout my projects
+
+- [Introduction to Programming](projects/introduction.md)
+- [JavaScript Best Practices](projects/js-best-practices.md)
+- [**Project 1**](projects/project1.md): Coming Soon!
 
 ---
 
-
 ### Contact
 
-If you'd like to get in touch with me, feel free to send me a message at **[your.email@example.com](mailto:your.email@example.com)** or reach out through my [LinkedIn](https://www.linkedin.com/in/yourprofile).
+If you'd like to get in touch with me, feel free to send me a message at **[marcello.j.defilippis@gmail.com](mailto:your.email@example.com)** or reach out through my [LinkedIn](https://www.linkedin.com/in/marcellodefilippis/). If none of this tickles your pickle you can go back to my main site: [marcellod.space](https://marcellod.space/).
 
 ---
 

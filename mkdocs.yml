@@ -24,17 +24,14 @@ search:
 nav:
   - Home: index.md
   - Book Summaries:
-      - Book 1: Book Summaries/kaufman.md
+      - The First 20 Hours. By Josh Kaufman : Book Summaries/kaufman.md
+      - 12 Rules of Life by Jordan Peterson: Book Summaries/peterson.md
 
-      - Horror:
-        - Book 2: book2.md
-        - Book 3: book3.md
   - Subjects:
       - Databases: Subjects/sql.md
   - Projects:
-      - Project 1: projects/project1.md
-      - Project 2: projects/project2.md
-      - Project 3: projects/project3.md
+      - How-I-Landed-My-Data-Analyst-Internship: projects/How-I-Landed-My-Data-Analyst-Internship.md
+      - IBM Data Science Certification Capstone Project: projects/IBM Data Science Certification Capstone Project.md
 
 
 
