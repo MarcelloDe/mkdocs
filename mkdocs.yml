@@ -1,5 +1,5 @@
 site_name: My Personal Website
-site_url: https://MarcelloDe.github.io/mkdocs
+site_url: https://marcellode.github.io/mkdocs/
 use_directory_urls: false
 theme:
   name: 'material'
