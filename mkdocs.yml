@@ -25,10 +25,17 @@ search:
 nav:
   - Home: index.md
   - Book Summaries:
-      - The First 20 Hours By Josh Kaufman : Book Summaries/kaufman.md
-      - 12 Rules of Life By Jordan Peterson: Book Summaries/peterson.md
-      - Get Things Done By Robert Kelsey: Book Summaries/Kelsey.md
-      - Awaken The Giant Within By Tony Robbins: Book Summaries/Robbins.md
+      - The First 20 Hours By Josh Kaufman : Book Summaries/The First 20 Hours.md
+      - 12 Rules of Life By Jordan Peterson: Book Summaries/12 Rules for Life.md
+      - Get Things Done By Robert Kelsey: Book Summaries/Get Things Done.md
+      - Awaken The Giant Within By Tony Robbins: Book Summaries/Awaken the Giant Within.md
+      - Confident Data Skills By Kirill Eremenko: Book Summaries/Confident Data Skills.md
+      - Better Faster Strong By Charles Duhigg: Book Summaries/Better Faster Stronger.md
+      - Mindshift By Barbara Oakley: Book Summaries/Mindshift.md
+      - How to Win Friends and Influence People By Dale Carnegie: Book Summaries/How to Win Friends and Influence People.md
+      - Deep Work By Cal Newport: Book Summaries/Deep Work.md
+      - Essentialism By Greg McKeown: Book Summaries/Essentialism.md
+      - 201 Knockout Answers to Tough Interview Questions: Book Summaries/201 Knockout Answers to Tough Interview Questions.md
 
   - Subjects:
       - Databases: Subjects/sql.md
