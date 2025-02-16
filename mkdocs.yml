@@ -3,7 +3,7 @@ site_url: https://MarcelloDe.github.io/mkdocs/
 use_directory_urls: false
 theme:
   name: 'material'
-  custom_dir: docs/assets  # Optional: Path to custom CSS/JS
+  # custom_dir: docs/assets  # Optional: Path to custom CSS/JS
   favicon: 'assets/images/favicon.ico'
   features:
   - content.tabs.link
