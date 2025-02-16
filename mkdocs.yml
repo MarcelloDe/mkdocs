@@ -1,0 +1,52 @@
+site_name: My Personal Website
+site_url: https://MarcelloDe.github.io/mkdocs/
+use_directory_urls: false
+theme:
+  name: 'material'
+  # custom_dir: docs/assets  # Optional: Path to custom CSS/JS
+  favicon: 'assets/images/favicon.ico'
+  features:
+  - content.tabs.link
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.expand
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Enable search feature
+search:
+  lang: en
+  max_results: 5
+
+# Define the navigation menu structure
+nav:
+  - Home: index.md
+  - Book Summaries:
+      - The First 20 Hours By Josh Kaufman : Book Summaries/The First 20 Hours.md
+      - 12 Rules of Life By Jordan Peterson: Book Summaries/12 Rules for Life.md
+      - Get Things Done By Robert Kelsey: Book Summaries/Get Things Done.md
+      - Awaken The Giant Within By Tony Robbins: Book Summaries/Awaken the Giant Within.md
+      - Confident Data Skills By Kirill Eremenko: Book Summaries/Confident Data Skills.md
+      - Better Faster Strong By Charles Duhigg: Book Summaries/Better Faster Stronger.md
+      - Mindshift By Barbara Oakley: Book Summaries/Mindshift.md
+      - How to Win Friends and Influence People By Dale Carnegie: Book Summaries/How to Win Friends and Influence People.md
+      - Deep Work By Cal Newport: Book Summaries/Deep Work.md
+      - Essentialism By Greg McKeown: Book Summaries/Essentialism.md
+      - 201 Knockout Answers to Tough Interview Questions: Book Summaries/201 Knockout Answers to Tough Interview Questions.md
+
+  - Subjects:
+      - Databases: Subjects/sql.md
+  - Projects:
+      - How-I-Landed-My-Data-Analyst-Internship: projects/How-I-Landed-My-Data-Analyst-Internship.md
+      - IBM Data Science Certification Capstone Project: projects/IBM Data Science Certification Capstone Project.md
+      - Data Analysis-with Python Project: projects/Data Analysis with Python Project.md
+      - Data Visualization Project: projects/Data Visualization Project.md
+      - SQL and Databases Project: projects/SQL and Databases Project.md
+
+
+
+# Set the site language (optional)
+language: en
