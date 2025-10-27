@@ -1,12 +1,42 @@
+# name: ci
+# on:
+#   push:
+#     branches:
+#       - main
+# permissions:
+#   contents: write
+#   pages: write
+#   id-token: write
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - name: Set up Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.12'
+#       - name: Install dependencies
+#         run: |
+#           pip install --upgrade pip
+#           pip install mkdocs-material mkdocs
+#       - name: Build the site
+#         run: mkdocs build --clean
+#       - name: Deploy to GitHub Pages
+#         run: mkdocs gh-deploy --force --verbose
+
+
 name: ci
 on:
   push:
     branches:
       - main
+# Sets permissions for GitHub Pages deployment
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write # Needed for checkout
+  pages: write # To deploy to GitHub Pages
+  id-token: write # To allow deployment from a workflow
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -22,5 +52,23 @@ jobs:
           pip install mkdocs-material mkdocs
       - name: Build the site
         run: mkdocs build --clean
+      
+      # -----------------------------------------------------
+      # NEW: Standard GitHub Pages Deployment Steps
+      # -----------------------------------------------------
+
+      # Configure the deployment environment (Recommended for standard Pages setup)
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      # Upload the built site folder (which is named 'site' by default)
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site' # The default output directory for mkdocs build
+
+      # Deploy the artifact to GitHub Pages
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --verbose
+        id: deployment
+        uses: actions/deploy-pages@v4
