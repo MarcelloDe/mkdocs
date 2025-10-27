@@ -19,7 +19,7 @@ date: 2022-09-22 01:42
 
 <p>Problem 1: Find the total number of crimes recorded in the crime table.</p>
 
-![image](ibmSql/1.jpg)
+![image](IbmSql/1.jpg)
 
 <p>Problem 2: Retrieve first 10 rows from the CRIME table.</p>
 

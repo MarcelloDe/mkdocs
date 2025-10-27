@@ -10,19 +10,16 @@ Hi, I'm Marcello, a software developer with a passion for building web applicati
 
 My course notes:
 
--- [Introduction to Programming](notes/introduction.md)
-
-- [JavaScript Best Practices](notes/js-best-practices.md)
-- [Learning Next.js](notes/learning-nextjs.md)
+- [SQL and Databases](Subjects/sql.md)
 
 ## Projects
 
 Checkout my projects
-- [Data-Science-Capstone-Project](projects/Data Science Capstone Project.md)
+- [Data Science Capstone Project](projects/Data-Science-Capstone-Project)
 - [How-I-Landed-My-Data-Analyst-Internship](projects/How-I-Landed-My-Data-Analyst-Internship.md)
 - [IBM Data Science Certification Capstone Project](projects/IBM Data Science Certification Capstone Project.md)
-- [Data-Analysis-with-Python-Project](projects/Data Analysis-with-Python-Project.md)
-- [Data-Visualization Project](projects/Data Visualization Project.md)
+- [Data Analysis with Python Project](projects/Data Analysis with Python Project.md)
+- [Data Visualization Project](projects/Data Visualization Project.md)
 - [SQL and Databases Project](projects/SQL and Databases Project.md)
 
 ---

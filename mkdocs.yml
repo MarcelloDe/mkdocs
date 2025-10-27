@@ -17,9 +17,7 @@ markdown_extensions:
       alternate_style: true
 
 # Enable search feature
-search:
-  lang: en
-  max_results: 5
+# Note: search is now enabled by default in Material theme
 
 # Define the navigation menu structure
 nav:
@@ -30,8 +28,8 @@ nav:
       - Get Things Done By Robert Kelsey: Book Summaries/Get Things Done.md
       - Awaken The Giant Within By Tony Robbins: Book Summaries/Awaken the Giant Within.md
       - Confident Data Skills By Kirill Eremenko: Book Summaries/Confident Data Skills.md
-      - Better Faster Strong By Charles Duhigg: Book Summaries/Better Faster Stronger.md
-      - Mindshift By Barbara Oakley: Book Summaries/Mindshift.md
+      - Better Fast Stronger By Charles Duhigg: Book Summaries/Better Fast Stronger.md
+      - Unlock Your Learning Potential: Book Summaries/Unlock Your Learning Potential.md
       - How to Win Friends and Influence People By Dale Carnegie: Book Summaries/How to Win Friends and Influence People.md
       - Deep Work By Cal Newport: Book Summaries/Deep Work.md
       - Essentialism By Greg McKeown: Book Summaries/Essentialism.md
@@ -46,8 +44,3 @@ nav:
       - Data Analysis with Python Project: projects/Data Analysis with Python Project.md
       - Data Visualization Project: projects/Data Visualization Project.md
       - SQL and Databases Project: projects/SQL and Databases Project.md
-
-
-
-# Set the site language (optional)
-language: en

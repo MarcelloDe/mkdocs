@@ -77,27 +77,27 @@ Our main, predictive question is:&ldquo;Is it possible to predict the sale price
 <p>
 <u>Question 1: </u> Display the data types of each column using the attribute dtype, then take a screenshot and submit it, include your code in the image.</p>
 
-![image](Ibm6/1.jpg)
+![image](IBM6/1.jpg)
 
 <p><u>Question 2: </u>Drop the columns &quot;id&quot; and &quot;Unnamed: 0&quot; from axis 1 using the method drop(), then use the method describe() to obtain a statistical summary of the data.</p>
 
-![image](Ibm6/2.jpg)
+![image](IBM6/2.jpg)
 
 <p><u>Question 3: </u>use the method value_counts to count the number of houses with unique floor values, use the method .to_frame() to convert it to a dataframe.</p>
 
-![image](Ibm6/3.jpg)
+![image](IBM6/3.jpg)
 
 <p><u>Question 4: </u> use the function boxplot in the seaborn library to produce a plot that can be used to determine whether houses with a waterfront view or without a waterfront view have more price outliers.</p>
 
-![image](Ibm6/4.jpg)
+![image](IBM6/4.jpg)
 
 <p><u>Question 5:</u>  Use the function regplot in the seaborn library to determine if the feature sqft_above is negatively or positively correlated with price</p>
 
-![image](Ibm6/5.jpg)
+![image](IBM6/5.jpg)
 
 <p><u>Question 6: </u> Fit a linear regression model to predict the price using the feature 'sqft_living' then calculate the R^2. Take a screenshot of your code and the value of the R^2.</p>
 
-![image](Ibm6/6.jpg)
+![image](IBM6/6.jpg)
 
 <p><u> Question 7:  </u>Fit a linear regression model to predict the 'price' using the list of features:<br>
 &bull; &quot;floors&quot;<br>
@@ -112,18 +112,18 @@ Our main, predictive question is:&ldquo;Is it possible to predict the sale price
 &bull; &quot;grade&quot;<br>
 &bull; &quot;sqft_living&quot;</p>
 
-![image](Ibm6/7.jpg)
+![image](IBM6/7.jpg)
 
 <p><u>Question 8: </u> Create a pipeline object that scales the data performs a polynomial transform and fits a linear regression model. Fit the object using the features in the question above, then fit the model and calculate the R^2. Take a screenshot of your code and the R^2.</p>
 
-![image](Ibm6/8.jpg)
+![image](IBM6/8.jpg)
 
 <p><u>Question 9: </u> Create and fit a Ridge regression object using the training data, setting the regularization parameter to 0.1 and calculate the R^2 using the test data. Take a screenshot for your code and the R^2</p>
 
-![image](Ibm6/9.jpg)
+![image](IBM6/9.jpg)
 
 <p><u>Question 10: </u>Perform a second order polynomial transform on both the training data and testing data. Create and fit a Ridge regression object using the training data, setting the regularisation parameter to 0.1. Calculate the R^2 utilising the test data provided. Take a screenshot of your code and the R^2.</p>
 
-![image](Ibm6/10.jpg)
+![image](IBM6/10.jpg)
 
  <p> End- Thank you for reading </p>
