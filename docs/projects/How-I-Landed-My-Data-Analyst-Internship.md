@@ -34,7 +34,7 @@ The Field Columns were as follows:
   <td> infraction_weight </td>
   <td> <br>The level of severity associated with an infraction. Larger values represent </td>
 
-  </tr>s
+  </tr>
 
 </table>
 

@@ -18,7 +18,7 @@ My course notes:
 ## Projects
 
 Checkout my projects
-- [Data-Science-Capstone-Project](projects/Data-Science-Capstone-Project.md)
+- [Data-Science-Capstone-Project](projects/Data Science Capstone Project.md)
 - [How-I-Landed-My-Data-Analyst-Internship](projects/How-I-Landed-My-Data-Analyst-Internship.md)
 - [IBM Data Science Certification Capstone Project](projects/IBM Data Science Certification Capstone Project.md)
 - [Data-Analysis-with-Python-Project](projects/Data Analysis-with-Python-Project.md)
