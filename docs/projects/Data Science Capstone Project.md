@@ -19,7 +19,7 @@ Here are a few examples of the type of unclean data we had to manage:
 <image src="capstone/picture2.jpg" alt="unclean data" width="500" height="300">
 
 Not surprisingly, we had every variation of McMaster University spelled
-<image src="capstone/pic4.jpg" alt="unclean data" width="500" height="300">
+<image src="capstone/pic4.jpg" alt="unclean data2" width="500" height="300">
 
 
 # The Preliminary Data Cleaning Process
@@ -88,7 +88,7 @@ wordcloud(words[1:25], frequency[10:70])
 ```
 Here is the visualization of the word web created:
 
-<image src="capstone/picture1.jpg" alt="word web" width="500" height="300">
+<img src="capstone/picture1.jpg" alt="word web" width="500" height="300">
 
 ### Key Findings: Predominant Themes
 
