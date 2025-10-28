@@ -4,7 +4,17 @@ Hi, I'm Marcello, a software developer with a passion for building web applicati
 
 ### Book Summaries:
 
-- Coming Soon!
+- [The First 20 Hours By Josh Kaufman](Book%20Summaries/The%20First%2020%20Hours.md)
+- [12 Rules of Life By Jordan Peterson](Book%20Summaries/12%20Rules%20for%20Life.md)
+- [Get Things Done By Robert Kelsey](Book%20Summaries/Get%20Things%20Done.md)
+- [Awaken The Giant Within By Tony Robbins](Book%20Summaries/Awaken%20the%20Giant%20Within.md)
+- [Confident Data Skills By Kirill Eremenko](Book%20Summaries/Confident%20Data%20Skills.md)
+- [Better Fast Stronger By Charles Duhigg](Book%20Summaries/Better%20Fast%20Stronger.md)
+- [Unlock Your Learning Potential](Book%20Summaries/Unlock%20Your%20Learning%20Potential.md)
+- [How to Win Friends and Influence People By Dale Carnegie](Book%20Summaries/How%20to%20Win%20Friends%20and%20Influence%20People.md)
+- [Deep Work By Cal Newport](Book%20Summaries/Deep%20Work.md)
+- [Essentialism By Greg McKeown](Book%20Summaries/Essentialism.md)
+- [201 Knockout Answers to Tough Interview Questions](Book%20Summaries/201%20Knockout%20Answers%20to%20Tough%20Interview%20Questions.md)
 
 ## Subjects
 
@@ -14,7 +24,8 @@ My course notes:
 
 ## Projects
 
-Checkout my projects
+Checkout my projects:
+
 - [Data Science Capstone Project](projects/Data Science Capstone Project.md)
 - [How-I-Landed-My-Data-Analyst-Internship](projects/How-I-Landed-My-Data-Analyst-Internship.md)
 - [IBM Data Science Certification Capstone Project](projects/IBM Data Science Certification Capstone Project.md)
