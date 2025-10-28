@@ -1,4 +1,6 @@
-# Executive Summary
+#  Data Science Capstone Project: Quantifying Perception & Predicting Work Intentions in Hamilton, ON
+
+## Executive Summary
 
 The City of Hamilton is a major part of the 'GTHA' (Greater Toronto Hamilton Area), home to over 540,000 residents. Historically the "black sheep" due to its economic reliance on declining steel manufacturing, Hamilton is now undergoing a revitalization driven by increased investment and innovation in the tech sector, coupled with a rise in migration.
 
@@ -7,7 +9,6 @@ Despite its lower cost of living, Hamilton is struggling to retain the skilled k
 ## The Dataset
 To investigate this talent drain, a 2018 survey targeted McMaster University alumni—recently skilled knowledge workers—to determine their living and working locations. The resulting dataset provides a snapshot of each individual, including variables like their hometown, current city/occupation, perception of Hamilton, willingness to accept a pay cut to work locally, and the importance of factors like safety, culture, and career opportunities. **The CSV file had 1,172 records (survey responses) and 52 variables (survey questions or derived features)**. The dataset contained Personal Identifiable Information (PII) so much of it cannot be shared. 
 
-#  Capstone Project: Quantifying Perception & Predicting Work Intentions in Hamilton, ON
 
 ***
 
@@ -20,11 +21,6 @@ Here are a few examples of the type of unclean data we had to manage:
 
 Not surprisingly, we had every variation of McMaster University spelled
 <image src="capstone/pic4.jpg" alt="unclean data2" width="500" height="300">
-
-
-# The Preliminary Data Cleaning Process
-The most significant and demanding phase of this project was the preliminary data cleaning. This vital step, which data analysts often estimate takes up to 80% of their time, consumed closer to 90% of our resources due to the highly 'unclean' nature of the survey results.
-
 
 
 ## 1. Project Overview: Bridging NLP and Predictive Analytics
@@ -88,7 +84,7 @@ wordcloud(words[1:25], frequency[10:70])
 ```
 Here is the visualization of the word web created:
 
-<img src="capstone/picture1.jpg" alt="word web" width="500" height="300">
+<img src="capstone/Picture1.jpg" alt="word web" width="500" height="300">
 
 ### Key Findings: Predominant Themes
 
