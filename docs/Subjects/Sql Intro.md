@@ -6,6 +6,8 @@ SQL enables you to extract meaningful insights from large datasets by writing qu
 
 ## SQL Presentation Video
 
+I created this video for my Database Theory class where I was taught how to manage databases using SQL.
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
   <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
     <source src="../videos/SQL Presentation.mp4" type="video/mp4">
