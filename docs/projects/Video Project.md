@@ -24,7 +24,7 @@ This project demonstrates various video content including tutorials, demonstrati
 ### SQL Presentation Video
 
 <video width="800" height="450" controls>
-  <source src="videos/SQL Presentation.mp4" type="video/mp4">
+  <source src="../videos/SQL Presentation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -34,7 +34,7 @@ This project demonstrates various video content including tutorials, demonstrati
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
   <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-    <source src="videos/SQL Presentation.mp4" type="video/mp4">
+    <source src="../videos/SQL Presentation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
