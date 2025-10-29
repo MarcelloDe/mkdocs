@@ -1,15 +1,4 @@
----
-title: Video Project
-description: A project showcasing video content and demonstrations.
-slug: video-project
-authors:
-  - Marcello De Filippis
-date: 2025-01-27
-tags:
-  - Video
-  - Demonstration
-  - Project
----
+
 
 # Video Project
 
@@ -58,3 +47,5 @@ This project demonstrates various video content including tutorials, demonstrati
 ---
 
 *This project showcases video integration capabilities in MkDocs.*
+
+

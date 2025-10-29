@@ -36,7 +36,7 @@ nav:
       - 201 Knockout Answers to Tough Interview Questions: Book Summaries/201 Knockout Answers to Tough Interview Questions.md
 
   - Subjects:
-      - Databases: Subjects/sql.md
+      - Sql: Subjects/Sql Intro.md
   - Projects:
       - Data Science Capstone Project: projects/Data Science Capstone Project.md
       - How-I-Landed-My-Data-Analyst-Internship: projects/How-I-Landed-My-Data-Analyst-Internship.md
@@ -45,4 +45,3 @@ nav:
       - Data Visualization Project: projects/Data Visualization Project.md
       - SQL and Databases Project: projects/SQL and Databases Project.md
       - Mastering the Data Journey - Building Robust Pipelines for Marketing Mixed Modeling (MMM): projects/Loblaw.md
-      - Video Project: projects/Video Project.md

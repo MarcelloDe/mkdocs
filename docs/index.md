@@ -20,7 +20,7 @@ Hi, I'm Marcello, a software developer with a passion for building web applicati
 
 My course notes:
 
-- [SQL and Databases](Subjects/sql.md)
+- - [Sql](projects/Sql Intro.md)
 
 ## Projects
 
@@ -33,7 +33,7 @@ Checkout my projects:
 - [Data Visualization Project](projects/Data Visualization Project.md)
 - [SQL and Databases Project](projects/SQL and Databases Project.md)
 - [Mastering the Data Journey - Building Robust Pipelines for Marketing Mixed Modeling (MMM)](projects/Loblaw.md)
-- [Video Project](projects/Video Project.md)
+
 
 ---
 
