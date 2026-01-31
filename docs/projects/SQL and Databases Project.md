@@ -9,7 +9,7 @@ date: 2022-09-22 01:42
 
 <p>This assignment involves 3 datasets for the city of Chicago obtained from the Chicago Data Portal: </P>
 
- <P>1. <a href="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2">Chicago Socioeconomic Indicators</a></p> This dataset contains a selection of six socioeconomic indicators of public health significance and a &ldquo;hardship index,&rdquo; by Chicago community area, for the years 2008 &ndash; 2012.
+ <P>1. <a href="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2">Chicago Socioeconomic Indicators</a></p> This dataset contains a selection of six socioeconomic indicators of public health significance and a &ldquo;hardship index,&rdquo; by Chicago community area, for the years 2008 - 2012.
 
   <P>2. <a href="https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t">CPS School Report Cards</a> This dataset shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year.</P>
 

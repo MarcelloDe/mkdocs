@@ -37,6 +37,14 @@ nav:
 
   - Subjects:
       - Sql: Subjects/Sql Intro.md
+      - Database Theory: Subjects/Database Theory.md
+      - Database Lab 4: Subjects/Database Lab 4.md
+      - Database Lab 5: Subjects/Database Lab 5.md
+      - Database Lab 6: Subjects/Database Lab 6.md
+      - Database Lab 8: Subjects/Database Lab 8.md
+      - Project Management for IT: Subjects/Project Management for IT.md
+      - Software Quality and Testing: Subjects/Software Quality and Testing.md
+      - Computer Training: Subjects/Computer Training.md
   - Projects:
       - Data Science Capstone Project: projects/Data Science Capstone Project.md
       - How-I-Landed-My-Data-Analyst-Internship: projects/How-I-Landed-My-Data-Analyst-Internship.md

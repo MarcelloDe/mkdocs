@@ -14,8 +14,6 @@ tags:
   - GCP
 ---
 
-<image src="pictures/Loblaws.jpg" alt="unclean data2" width="500" height="300">
-
 # Mastering the Data Journey: Building Robust ETL Pipelines for Marketing Mixed Modeling (MMM)
 
 My Co-op was spent working full-time as a Data Analyst on the Data Engineering team at Loblaw Headquarters in Brampton Ontario. This document details my work on the **Elevated Data Foundations (EDF)** project, a core initiative to build a scalable, high-quality data pipeline on Google Cloud Platform (GCP). The project’s objective was to aggregate, cleanse, and model diverse marketing data to create the input dataset for a **Marketing Mixed Model (MMM)**, enabling precise calculation of marketing ROI.

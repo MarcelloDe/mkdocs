@@ -20,7 +20,8 @@ Hi, I'm Marcello, a software developer with a passion for building web applicati
 
 My course notes:
 
-- - [Sql](projects/Sql Intro.md)
+- [Sql](Subjects/Sql Intro.md)
+- [System Analysis and Design](Subjects/System Analysis and Design.md)
 
 ## Projects
 
