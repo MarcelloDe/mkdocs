@@ -117,8 +117,6 @@ To fix a problem, a developer needs to **recreate** it. A professional bug repor
 
 **Example Bug Report:**
 
-![Bug Report Template](images/bug-report-example.png)
-
 *Example of a well-structured bug report with all essential components*
 
 > **Environment:** Windows 10, Chrome Version 114.0.5735.199
@@ -185,8 +183,6 @@ Understanding database concepts helps structure data effectively:
 - **Data Types**: Ensuring consistent formatting (text, numbers, dates)
 
 ### Sorting & Filtering: Finding Needles in Haystacks
-
-![Excel Multi-Field Sorting Example](images/excel-multi-sort.png)
 
 *Example of multi-field sorting: Employees sorted by Department (A-Z) and then by Salary (Highest to Lowest)*
 
@@ -327,8 +323,6 @@ Clear, high-contrast screen captures with proper labeling are essential for tech
 - **Callouts:** Highlight important elements with arrows, boxes, or circles
 
 **Example Caption Format:**
-
-![Figure 1: The Ribbon in Microsoft Word](images/word-ribbon-example.png)
 
 **Figure 1: The Ribbon in Microsoft Word**
 

@@ -206,8 +206,6 @@ Task 11 ("Roll Out") served as a summary task for tasks 12 and 13, demonstrating
 
 The WBS numbering scheme was customized to show the hierarchical structure clearly, demonstrating mastery of Week 6's WBS concepts.
 
-![Work Breakdown Structure](images/pm-wbs-structure.png)
-
 *WBS view showing hierarchical task structure with multiple levels (1, 1.1, 1.1.1) and summary tasks*
 
 #### 7. Resource Leveling and Split Tasks
