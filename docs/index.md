@@ -21,6 +21,14 @@ Hi, I'm Marcello, a software developer with a passion for building web applicati
 My course notes:
 
 - [Sql](Subjects/Sql Intro.md)
+- [Database Theory](Subjects/Database Theory.md)
+- [Database Lab 4](Subjects/Database Lab 4.md)
+- [Database Lab 5](Subjects/Database Lab 5.md)
+- [Database Lab 6](Subjects/Database Lab 6.md)
+- [Database Lab 8](Subjects/Database Lab 8.md)
+- [Project Management for IT](Subjects/Project Management for IT.md)
+- [Software Quality and Testing](Subjects/Software Quality and Testing.md)
+- [Computer Training](Subjects/Computer Training.md)
 - [System Analysis and Design](Subjects/System Analysis and Design.md)
 
 ## Projects
